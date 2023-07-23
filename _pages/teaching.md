@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: TA Assignments
-nav: true
+nav: false
 nav_order: 5
 ---
 
